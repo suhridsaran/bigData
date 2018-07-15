@@ -1,9 +1,13 @@
 # spark - Project on Banking
 
-1. Projet on Bnaking : /Spark/projectOnBanking
+Projet on Bnaking : 
 
 ANALYISIS OF MARKETING DATA FOR CALL CAMPAIGN BY BANK
 Brief description of project work : Banking institution—Ran a marketing campaign to convince potential customers to invest in bank term deposit.
+
+Note : 
+1. Download the ProjectBD_Suhrid.docx which has screenshot's of out from spark console.
+2. Download and use bank-full.csv as data source.
 
  
 Problem Statement’s and solutions :
